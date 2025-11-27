@@ -39,6 +39,7 @@ Interactive Filters: Category and product-level analysis
 The dataset is divided into three main tables: Customers, Orders, and Products.
 Together, they simulate a real e-commerce environment and allow analysis of revenue, customer behavior, product performance, and delivery patterns.
 
+
 **1. Customers Table**
 
 Contains customer-related information to understand buyer profiles and regional performance.
@@ -60,6 +61,7 @@ State – Customer’s state
 Custom – Additional custom field included in dataset
 
 
+
 **2. Orders Table**
 
 Includes transaction and operational information for each order placed.
@@ -79,6 +81,7 @@ Quantity – Number of units ordered
 Delivery Status – Delivered / Cancelled
 
 Delivery Time – Time taken for delivery
+
 
 
 **3. Products Table**
